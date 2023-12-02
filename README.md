@@ -1,4 +1,4 @@
 # MyFirstProject
 This is my first working GitRepository
 <br>
-Author:Sayandeep Sadhukhan
+Author:Sayandeep Sadhukhan(Project)
